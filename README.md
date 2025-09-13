@@ -1,6 +1,6 @@
 # LEADSPRO — Google Maps Extractor (GUI)
 
-Aplicativo desktop (Tkinter + Selenium) que abre o Google Maps, coleta estabelecimentos da lista de resultados e exporta **Nome, Endereço, Telefone, Site, Email** para **CSV/Excel/JSON/PDF**.
+Aplicativo desktop (Tkinter + Selenium) que abre o Google Maps, coleta estabelecimentos da lista de resultados e exporta **Nome, Endereço, Telefone, Site, Email** para **CSV/Excel/JSON**.
 
 > ⚠️ Aviso legal: o uso de automação pode violar os Termos de Serviço do Google. Use por sua conta e risco. Para uso comercial/escala, avalie a **Google Places API**.
 
